@@ -2,7 +2,7 @@
 
 # Bui Ngoc Anh Duy
 
-**Laravel Full-Stack Developer · 8+ years**
+**Full-Stack Developer · 8+ years**
 
 I take over production PHP / Laravel apps, ship features, fix bugs, and integrate payments and APIs — without rewriting what already works.
 

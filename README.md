@@ -2,7 +2,7 @@
 
 
 
-# Bùi Ngọc Anh Duy
+# Bui Ngoc Anh Duy
 
 **PHP / Laravel Full-Stack Developer**
 
@@ -39,7 +39,6 @@ I have led teams of 5–7, worked directly with clients (including Japan-facing 
 | Project       | What I built                                                                                                                                                      | Stack                                                                        |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **MINDEN**    | Consultation platform (web + mobile): scheduling, calls, payments, and third-party integrations for fortune telling, psychology, career, and personal development | Laravel, Vue.js, React Native, MySQL, Docker, Twilio, PayPay, LINE, Firebase |
-| **ATHLEE**    | LINE LIFF platform connecting farmers and consultants — LINE login and PayPay checkout                                                                            | Laravel, MySQL, Docker, LINE, PayPay                                         |
 | **HAPIMA JP** | E-commerce / product booths with revenue tracking, payments, and object storage                                                                                   | Laravel, SCSS, MySQL, Stripe, PayPay, SB Payment, S3                         |
 | **WINBOARD**  | Internal system for revenue and work-hour management, plus reusable UI for other apps                                                                             | React.js                                                                     |
 
@@ -60,10 +59,10 @@ I have led teams of 5–7, worked directly with clients (including Japan-facing 
 ## Experience
 
 **ZIGExN VENTURA Co., Ltd.** — *Mar 2022 – Oct 2025*  
-Laravel + Vue.js products, REST APIs, automated tests, React Native apps. Lead a 7-member team.
+Laravel + Vue.js products, REST APIs, automated tests, React Native apps
 
 **MOR Software** — *Mar 2020 – Mar 2022*  
-Laravel + React.js applications, API design, client requirement analysis. Lead a 5-member team.
+Laravel + React.js applications, API design, client requirement analysis
 
 **3FORCOM** — *Feb 2019 – Feb 2020*  
 Laravel websites and backend APIs; feature work and maintenance.

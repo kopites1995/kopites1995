@@ -21,7 +21,7 @@ I take over production PHP / Laravel and Python / FastAPI apps, ship features, f
 - Frontends in **React**, **Vue.js**, or TypeScript
 - **React Native** apps that talk to a Laravel or FastAPI backend
 
-I have shipped Japan-facing products, worked directly with clients. Clear estimates, regular updates, maintainable code.
+Clear estimates, regular updates, maintainable code.
 
 ## Featured work
 

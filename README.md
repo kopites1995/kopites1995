@@ -15,7 +15,7 @@ I take over production PHP, Java and Python / FastAPI apps, ship features, fix b
 
 ## What clients hire me for
 
-- **Laravel / PHP** and **Python / FastAPI** backends and REST APIs on live products
+- **Laravel / PHP** **Java / Spring Boot** **Python / FastAPI** backends and REST APIs on live products
 - Feature work and production bug fixes on existing codebases
 - Payments and messaging: Stripe, PayPay, LINE, Twilio, Firebase, S3
 - Frontends in **React**, **Vue.js**, or TypeScript
@@ -36,7 +36,7 @@ Client projects I contributed to as a developer — I do not own these products.
 
 ## Tech stack
 
-**Backend** — PHP · Laravel · Python · FastAPI · REST APIs  
+**Backend** — PHP · Laravel · Java/Spring Boot · Python · FastAPI · REST APIs  
 **Frontend** — JavaScript · TypeScript · React · Vue.js · SCSS  
 **Mobile** — React Native  
 **Data** — MySQL · PostgreSQL  
@@ -61,7 +61,7 @@ Client projects I contributed to as a developer — I do not own these products.
 ## Experience
 
 **Quantic Ltd** — *Oct 2025 – Present*  
-Python / FastAPI and PHP products, Azure Pipeline, Azure Data Factory for fintech systems
+Java / Python / FastAPI and PHP products, Azure Pipeline, Azure Data Factory for fintech systems
 
 **ZIGExN VENTURA Co., Ltd.** — *Mar 2022 – Oct 2025*  
 Laravel + Vue.js products, REST APIs, automated tests, React Native apps. Japan-facing platforms with payments and messaging.

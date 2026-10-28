@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · 8+ years**
 
-I take over production PHP / Laravel and Python / FastAPI apps, ship features, fix bugs, and integrate payments and APIs — without rewriting what already works.
+I take over production PHP, Java and Python / FastAPI apps, ship features, fix bugs, and integrate payments and APIs — without rewriting what already works.
 
 [![Email](https://img.shields.io/badge/Email-anhduy.bui1995%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anhduy.bui1995@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bui--ngoc--anh--duy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bui-ngoc-anh-duy)

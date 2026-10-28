@@ -82,7 +82,7 @@ PHP Web Programming Certification *(2017)*
 
 ## Let’s work
 
-Open to Laravel, Java, Python / FastAPI, full-stack, and React Native contracts.
+Open to PHP, Java, Python / FastAPI, full-stack, and React Native contracts.
 
 Send a repo or a short brief — I will tell you the first step and a realistic timeline.
 
